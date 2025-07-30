@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">Hello Android App</string>
+    <string name="welcome_to_mainactivity">Welcome to MainActivity!</string>
+    <string name="go_to_second_activity">Go to Second Activity</string>
+    <string name="share_message">Share Message</string>
+    <string name="you_re_in_secondactivity">You\'re in SecondActivity!</string>
+    <string name="back_to_mainactivity">Back to MainActivity</string>
+</resources>
